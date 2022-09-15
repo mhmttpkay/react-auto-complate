@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "IBANEZ BTB470IPT",
+        "price": "10.868 TL",
+        "image": "https://cdn03.ciceksepeti.com/cicek/kcm35276506-1/XL/ibanez-btb470ipt-kcm35276506-1-89974bcc2c244cb482ad424b69ca44ac.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Epiphone Les Paul SL Elektro Gitar",
+        "price": "3.079,58 TL",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSFuNYFi57Zs_lgrfqRIyd9VKQpW4uV-ZdcWl6f4L2HmRr-5PAJc8DDU1VbacXXW4j6JE9he6sH72olHJ8WI0Chpr-Rcu4lV_MwcVpXHEFz4g9vrLWQZ6EpYg"
+    },
+    {
+        "id": 3,
+        "title": "Kramer Focus VT-211S Elektro Gitar",
+        "price": "3.374,65 TL",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTZ53Vuazm_LFJ4C-vMzewhK74HLDUp0q4-py1AvPRDxZ414tWSCNb5yB6GNfZssejBSwRkKaIpXCeT9x6GPZ9GEISBB-Tt973gxa-Yagn7NfLvxTzv-_hnY3A"
+    },
+    {
+        "id": 4,
+        "title": "Sire Larry Carlton L7 Elektro Gitar TBL",
+        "price": "15.383,71 TL",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSOHA7r2BocMc5AzcKoSAq6hZMzztowmhfDV0kMFEfFvwtjQJEnYNcW309_ITIgcb1M33qFr9NW_vugrVjhdKlSVhRJ4u4wA096e18Jw6wYAMRhLS1hWv-5&usqp=CAY"
+    },
+    {
+        "id": 5,
+        "title": "Epiphone Pro-1 Akustik Gitar",
+        "price": "3.495,21 TL",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSrMZ0n_e_XyONZeRQ2CsJmOryITgyQL-CQolP5I7mXPOzKgoHrQ-Z1M4hhyNJDMr50OaxcST10r7ySuvoJnRlLdu5q52_qZWIjUnwPhBspIQA4BYpy86XQoA"
+    },
+    {
+        "id": 6,
+        "title": "Taylor 814ce Ltd Elektro Akustik Gitar",
+        "price": "94.501,25 TL",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSr-MrDUxnj6Cc8xAWjnFHungghPk7dgPF4_mRNRx4GHTLjdWEcDbovEHCZDLrZvWxs4dpJE5kPZlkQLpkJFOYjzSUKBp9ua4RCpUrY8VZlP6i21u4ivFfW8g&usqp=CAY"
+    },
+    {
+        "id": 7,
+        "title": "Yamaha Pacifica Elektro Gitar",
+        "price": "8.509,20 TL",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgUH5WHNsOZk8CW5fAqVbqG8IljObu7yJWr2ZjR5IjSSnKlPDjntNZZNt0M9qR7IyKWbu3h9Ldf8b1A0QAUkm0OOJQDJm4EjHGdcKQqGcQ9xYhUI3pbM86EA&usqp=CAY"
+    },
+    {
+        "id": 8,
+        "title": "Ortega R122 Klasik Gitar",
+        "price": "3.761,05 TL",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRmq8EPYNDwEmrLnvQkG92al44rBSwsTReKQCQmufmRtQ8BF9PxqCcTcpMaCHhTTGXbVgN-c7d_Lmdi6S89yHK-ffOrSOkMMFGZWD3p89wM2TdOKSqHY0wfKw"
+    },
+    {
+        "id": 9,
+        "title": "Sire Larry Carlton Elektro Gitar",
+        "price": "13.281,48 TL",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSgGcTqYNpcX53H_LgdWTyY1iJgIRMyZmtiid0WIMvThdzu3wG-m6REkEmB3ZJFmNpgp0X7NmuT1KPfoNqgvkGnBpNJLWTnEz9df3rn6C7OmHothAovfwUr"
+    },
+    {
+        "id": 10,
+        "title": "Taylor 814ce Elektro Akustik Gitar",
+        "price": "94.501,25 TL",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSr-MrDUxnj6Cc8xAWjnFHungghPk7dgPF4_mRNRx4GHTLjdWEcDbovEHCZDLrZvWxs4dpJE5kPZlkQLpkJFOYjzSUKBp9ua4RCpUrY8VZlP6i21u4ivFfW8g&usqp=CAY"
+    }
+]
